@@ -1,0 +1,37 @@
+.login-body{
+	background-image: url(/img/background.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 100vh;
+}
+
+.container-form{
+	width: 100%;
+}
+
+.login_div{
+	min-width:300px;
+	max-width: 500px;
+	width:80%;
+	margin:auto;
+	padding: 40px;
+	background-color: rgb(0 0 0 / 60%);
+	border-radius: 20px;
+	box-shadow: 0 0 10px 2px rgba(252,252,252,0.60);
+	position: relative;
+	top:100px;
+}
+
+.login_div:hover{
+	box-shadow: 0 0 10px 3px rgba(252,252,252,0.80);
+}
+
+.form_label{
+	color: #d7d7d7;
+	font-weight: 500;
+}
+
+.title{
+	color: #d7d7d7;
+}
